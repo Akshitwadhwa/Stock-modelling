@@ -9,3 +9,4 @@
 - Me and my team mates have done this project through a process of tasks with firsly chosing the write stocks and finding how we are going to chose them 
 
 
+-- project completed and need to be ordered
